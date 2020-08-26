@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="light_pitch">#B8E1DC</color>
+    <!--ab47bc-->
+    <color name="colorPrimaryDark">#F47E3A</color>
+    <color name="colorAccent">#F47E3A</color>
+    <color name="colorPrimary">#F47E3A</color>
+    <color name="yellow">#FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="windowBackground">#FFFFFF</color>
+    <color name="navigationBarColor">#000000</color>
+    <color name="textclr">#393847</color>
+    <color name="cardhead">#d0e9fc</color>
+
+    <color name="today_border">#e4e4e4</color>
+    <color name="today_background">#85f7f7f7</color>
+<!--    <color name="colorPrimary">#37474f</color>-->
+    <color name="secundaryTextColor">#757575</color>
+    <color name="primaryTextColor">#4d4d4d</color>
+    <color name="colorHover">#30818181</color>
+
+    <!--#137767-->
+</resources><!--pista--><!--#70C6B8--><!--#B8E1DC--><!--pitch--><!--#EE9186--><!--#FAE3DA-->
